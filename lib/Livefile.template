@@ -1,0 +1,8 @@
+---
+folders:
+  - lib
+  - conf
+
+puma:
+  control:
+  token:
