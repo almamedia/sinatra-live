@@ -3,6 +3,12 @@ Sinatra (live)
 
 Watches for changes in your Sinatra-app and reloads Puma daemon with the new app.
 
+## Install
+
+```
+gem install sinatralive
+```
+
 ## Usage
 
 First, create a Livefile on your Sinatra-app -root.
